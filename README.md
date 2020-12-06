@@ -1,4 +1,4 @@
-# grove-conector-breakout-board
+# grove-connector-breakout-board
 
 Breakout boards to use grove connector on a bread board.
 
