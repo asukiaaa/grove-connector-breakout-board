@@ -19,7 +19,7 @@ U 1 1 5FBE04A9
 P 3700 3550
 F 0 "J1" H 3782 3967 50  0000 C CNN
 F 1 "Grove-I2C-connector" H 3782 3876 50  0000 C CNN
-F 2 "my-kicad-footprints:NS-Tech_Grove_1x04_P2mm_Horizontal" H 3700 3550 50  0001 C CNN
+F 2 "my-kicad-footprints:NS-Tech_Grove_1x04_P2mm_Horizontalnside_silk_i" H 3700 3550 50  0001 C CNN
 F 3 "" H 3700 3550 50  0001 C CNN
 	1    3700 3550
 	1    0    0    -1  
@@ -30,16 +30,16 @@ U 1 1 5FBE14A7
 P 4150 3500
 F 0 "J2" H 4230 3492 50  0000 L CNN
 F 1 "Conn_01x04" H 4230 3401 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 4150 3500 50  0001 C CNN
+F 2 "my-kicad-footprints:PinHeader_1x04_P2.54mm_Vertical_silk_inside" H 4150 3500 50  0001 C CNN
 F 3 "~" H 4150 3500 50  0001 C CNN
 	1    4150 3500
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0101
 U 1 1 5FBE1567
 P 3950 3700
-F 0 "#PWR?" H 3950 3450 50  0001 C CNN
+F 0 "#PWR0101" H 3950 3450 50  0001 C CNN
 F 1 "GND" H 3955 3527 50  0000 C CNN
 F 2 "" H 3950 3700 50  0001 C CNN
 F 3 "" H 3950 3700 50  0001 C CNN
