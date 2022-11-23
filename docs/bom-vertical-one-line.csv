@@ -1,0 +1,3 @@
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
+"J1","1","Grove-I2C-connector","Grove-I2C-connector","my-kicad-footprints:NS-Tech_Grove_1x04_P2mm_Vertical_silk_inside","","https://www.seeedstudio.com/Grove-Universal-4-pin-connector.html"
+"J2","1","Conn_01x04","Conn_01x04","my-kicad-footprints:PinHeader_1x04_P2.54mm_Vertical_silk_inside","white","https://ja.aliexpress.com/item/4001111914708.html"
